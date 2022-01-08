@@ -16,7 +16,7 @@
     "schema.graphql",
     "project.yaml"
   ],
-  "author": "y1",
+  "author": "zina",
   "license": "Apache-2.0",
   "devDependencies": {
     "@polkadot/api": "^6",
